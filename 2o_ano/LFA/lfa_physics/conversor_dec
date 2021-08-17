@@ -1,0 +1,14 @@
+//Linguagem declarada
+conversor_dec								//início do programa declarativo
+
+    dim euro [e] as real;					//criação da dimensão euro através da unidade e
+    dim dollar [d] as real;
+    dim pound [p] as real;
+    unit centE as e/100;					//criação da unidade centE, que corresponde à centésima parte da unidade m
+    unit centD as d/100;
+    unit centP as p/100;
+    const taxaDE as 0.91682 as real;		//criação da constante taxaDE com valor inalterável de 0.91682 como um número real
+    const taxaEP as 1.11509 as real;
+    const taxaDP as 0.82167 as real;
+
+end;										//fim do programa declarativo

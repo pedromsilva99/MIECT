@@ -1,0 +1,13 @@
+//Linguagem declarada
+biblioteca_dec
+
+    dim livroEducativo [le] as integer;      //criação da dimensão livroEducativo através da unidade le
+    dim enciclopedia [e] as integer;
+    dim bandaDesenhada [bd] as integer;
+    dim time [s] as integer;
+    const paginaLe as 100 as integer;        //criação da constante paginaLe (numero medio de páginas em cada livro le) com valor inalterável de 100
+    const paginaE as 500 as integer;
+    const paginaBd as 50 as integer;
+    unit min as s*60;                        //criação da unidade min, que corresponde a 60 unidades s   
+
+end;

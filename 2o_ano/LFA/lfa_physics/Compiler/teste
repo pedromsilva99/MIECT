@@ -1,0 +1,16 @@
+    distance alturaInicial;         //cricao da variável alturaInicial que é uma variavel distance, ainda nao foi inicializada
+    distance alturaFinal = 0 m;     //criacao da variavel alturaFinal e inicializacao
+    time tempoInicial = 0 s;     
+    time tempoFinal = 5 s;
+    velocity velInicial = 0 m/s;
+    velocity velInst;
+    const gravity = 9.8 m/s^2;
+    distance mili = 5mm;
+
+    alturaFinal = mili;
+    print(""+alturaFinal);
+
+    for(double i=tempoInicial; i<tempoFinal ; i++){
+    velInst = gravity * i;
+    print("A velocidade instantanea no segundo " + i + " e de " + velInst);
+    }

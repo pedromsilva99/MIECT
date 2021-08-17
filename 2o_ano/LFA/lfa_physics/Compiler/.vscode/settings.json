@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "//**/*.jar"
+        "/usr/local/lib/*.jar"
+    ]   
+}

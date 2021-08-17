@@ -1,0 +1,13 @@
+dim distance [m] as integer;
+dim time [s] as real;
+dim temperatura [K] as real;
+dim dim23 [r] as real;
+dim cenas [c] as integer;
+
+dim inv as (m*s*K)/(r*c);
+
+unit cm as (m/100);
+
+const megaConst as 7834.93 (m*s*K)/(r*c);
+const megaConstNoPar as 64723.82 m*s*K/r*c;
+

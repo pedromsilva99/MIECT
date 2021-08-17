@@ -1,0 +1,70 @@
+booleanValue ::= [
+   "true":"true",
+   "false":"false",
+   default:"null"
+]
+
+module(name,stat) ::= <<
+public class <name>{
+    public static void main(String[] args){
+        <stats(stat)>;
+    }
+}
+>>
+
+stats(stat) ::= <<
+<if(stat)><stat; separator=";\n"><endif>
+>>
+
+print(value) ::= <<
+System.out.println(<value>)
+>>
+
+binaryExpression(e1,op,e2) ::= <<
+<e1> <op> <e2>
+>>
+
+ifStatementSimple(cond,instruction,instructionElse) ::=<<
+if(<cond>){
+    <instruction>;
+}<if(instructionElse)>else{
+    <instructionElse>;
+}<endif>
+>>
+
+
+CreateVarValue(name,unit,value) ::= <<
+Value <name> = new DoubleVar("<value>")
+>>
+CreateVarNoValue(name) ::= <<
+Value <name> = new Value()
+>>
+
+assign(var,value) ::= <<
+<var> = <value>
+>>
+
+assignValue(var,value) ::=<<
+<var>.setValueDouble(new Double(<value>))
+>>
+
+assignDimension(var,value,dim) ::=<<
+<var>.setValue(new Double(<value>));
+<var>.setUnidade("<dim>")
+>>
+
+
+forLoop(def,cond,oper,instr) ::=<<
+for(<def>;<cond>;<oper>){
+    <instr>
+}
+>>
+
+decl(type,var,value) ::= "<type> <var><if(value)> = <value><endif>"
+
+getValue(value) ::="<value>"
+getValueFromValue(var) ::="<var>.getValueDouble()"
+getUnits(value) ::="<value>"
+getSimpleText(text) ::="<text>"
+
+error() ::= "ERROR"

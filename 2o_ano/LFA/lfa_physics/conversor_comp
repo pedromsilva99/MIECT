@@ -1,0 +1,39 @@
+//Linguagem Compilada 
+//exemplo conversor de moeda
+
+//include 'Home/conversor_dec'            //inclui a linguagem declarativa após ser indicado o seu diretório numa string
+										  //ainda nao incluído na gramática por isso está comentado
+
+program
+
+begin                               //começo do programa
+
+    euro a = 50000 e;            	//criação da variável a e inicialização  
+    dollar b = 40000 d;
+    unit c = 7500000 centP;			
+    euro compare;
+    euro maior;
+
+    compare = 1 e * b * taxaDE / 1 d;
+
+    if (a>compare)						//bloco if
+    then								//inicialização do bloco if
+        maior = a;						//atribuição do valor de "a" à variável "maior"
+    else								//else
+        maior = compare;
+    end;								//conclusão do bloco if
+
+    compare = 1 e * c / taxaEP / 1 p;
+
+    if (maior>compare)					
+    then								
+        print(maior);					//impressão no terminal da variável maior
+    else    							
+        print(compare);
+    end;								
+
+end;									//final do programa
+    
+
+
+

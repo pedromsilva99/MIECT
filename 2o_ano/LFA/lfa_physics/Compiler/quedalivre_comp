@@ -1,0 +1,30 @@
+//Linguagem Compilada 
+//exemplo quedalivre
+
+//include 'Home/quedalivre_dec'            //inclui a linguagem declarativa apos ser indicado o seu diretório numa string
+										   //ainda nao incluído na gramatica por isso está comentado
+
+//program
+
+//begin                               //começo do programa
+
+    distance alturaInicial;         //cricao da variável alturaInicial que é uma variavel distance, ainda nao foi inicializada
+    distance alturaFinal = 0 m;     //criacao da variavel alturaFinal e inicializacao
+    time tempoInicial = 0 s;     
+    time tempoFinal = 5 s;
+    velocity velInicial = 0 m/s;
+    velocity velInst;
+    const gravity = 9.8 m/s^2;
+
+    //ciclo for nao faz sentido
+    for(double i=tempoInicial; i<tempoFinal ; i++){
+    velInst = gravity * i;
+    print("A velocidade instantanea no segundo " + i + " e de " + velInst);
+    }
+
+  
+    alturaInicial = gravity * (tempoFinal * tempoFinal) / 2;
+
+    print("A altura a que a pedra foi lancada foi de " + alturaInicial);
+
+//end;                                 //final do programa

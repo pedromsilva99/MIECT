@@ -1,0 +1,18 @@
+//Linguagem declarada
+//quedalivre_dec					//início do programa declarativo
+	
+	dim time [s] as real;			//criação da dimensão time através da unidade s
+	dim distance [m] as real;
+	dim velocity as distance / time;	//criação da dimensão velocity a partir de dimensões previamente defenidas 
+	dim mass [kg] as real;
+	unit mm as m/1000;			//criação da unidade mm, que corresponde à milésima parte da unidade m
+	unit min as s*60;
+	unit m as 1;
+	
+	//criação da constante gravity com valor inalterável de 9.8 a partir de operações entre unidades anteriores
+	const gravity as 9.8 m / (s * s);	
+	//Nota: nao pode ser 9.8 distance / time² pois nao seria 9.8 para unidades como o km ou o minuto
+	
+	const velocidade as 300 m / s;
+
+//end;	//fim do programa declarativo

@@ -1,0 +1,14 @@
+dim metro [m] as real;
+dim acc as m/s*s;	// Dimensao nao definida!
+dim time [s] as real;
+dim vel as (m/s);
+dim acc as m/s*s;
+dim nova [m] as integer;   // Já existe uma unidade definida assim!
+
+unit cm as m/100;
+unit mm as m/1000;
+unit cm as 100/m;	// Já existe uma unidade com esse nome!
+
+const gravidade as 10 m/s*s;
+const altura as 55 as integer;
+const altura as 80 as real;	// Já existe uma constante com esse nome!

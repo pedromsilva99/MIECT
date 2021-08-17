@@ -1,0 +1,36 @@
+//Linguagem Compilada 
+//exemplo biblioteca
+
+//include 'Home/biblioteca_dec'            //inclui a linguagem declarativa após ser indicado o seu diretório numa string
+											//deverá ser possível ter mais do que 1 include; ainda nao incluído na gramática por isso está comentado
+
+//program
+
+//begin                                //começo do programa
+
+    livroEducativo b11 = 30 le;       //crição da variável b1 que é uma variável livroEducativo, e que no representa o numero de livroEducativo na biblioteca 1
+    enciclopedia b12 = 6 e;           
+    bandaDesenhada b13 = 15 bd;
+
+    //Nova biblioteca
+    livroEducativo b21 = 10 le;
+    enciclopedia b22 = 15 e;           
+    bandaDesenhada b23 = 18 bd;
+
+    time tple = 80 s;                //criação da variável tple que é uma variável time, representa o número de segundos que demora a ler uma pagina
+    time tpe = 100 s;
+    time tpbd = 60 s;
+    time totalb1;
+    time totalb2;
+
+    totalb1 = (b11*tple*paginaLe)/(1 le) + (b12*tpe*paginaE)/(1 e) + (b13*tpbd*paginaBd)/(1 bd);
+    totalb2 = (b21*tple*paginaLe)/(1 le) + (b22*tpe*paginaE)/(1 e) + (b23*tpbd*paginaBd)/(1 bd);
+
+    if(totalb1 > totalb2)												//bloco if
+    then																//inicialização do bloco if
+        print(" A biblioteca 1 tera maior tempo de leitura ");			//impressão no terminal
+    else																//else
+        print(" A biblioteca 1 tera maior tempo de leitura ");
+    end;																//conclusão do bloco if
+//end;	
+
