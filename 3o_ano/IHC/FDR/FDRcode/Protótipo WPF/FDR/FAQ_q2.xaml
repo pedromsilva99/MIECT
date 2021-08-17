@@ -1,0 +1,23 @@
+﻿<Page x:Class="FDR.FAQ_q2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="FAQ_q2">
+
+    <Grid Background="White">
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,21,0,0" VerticalAlignment="Top" Width="46" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="WHAT IS OUR GOAL? " HorizontalContentAlignment="Center" Margin="43,52,45,0" VerticalAlignment="Top" Height="37" FontWeight="Bold" FontSize="20"/>
+        <Label Content="The main goal is to help the people&#xD;&#xA; in need and to reduce the waste &#xD;&#xA;of food. &#xA;The human being wastes about 33% &#xD;&#xA;of food, and we want to reduce &#xD;&#xA;that number drastically and help &#xD;&#xA;people get well nourished." Margin="21,132,21,0" VerticalAlignment="Top" Height="180" FontSize="14"/>
+
+    </Grid>
+</Page>

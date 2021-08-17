@@ -1,0 +1,32 @@
+﻿<Page x:Class="FDR.FAQ_q3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="FAQ_q3">
+
+    <Grid Background="White">
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,21,0,0" VerticalAlignment="Top" Width="46" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="PROBLEMS WITH OUR METHODS?  " HorizontalContentAlignment="Center" Margin="17,55,16,0" VerticalAlignment="Top" Height="39" FontWeight="Bold" FontSize="15"/>
+        <Label HorizontalContentAlignment="Center" Content="Everyone has imperfections, right? &#10;We are open to new suggestions! &#10;Tell us what you think we should do!" Margin="26,131,26,0" VerticalAlignment="Top" Height="60" FontSize="13"/>
+
+        <TextBox BorderBrush="Blue" BorderThickness="2" Height="201" Margin="26,211,26,0" TextWrapping="Wrap" Text="Write here!" VerticalAlignment="Top"/>
+        <Button x:Name="ButtonSubmit" Background ="RoyalBlue" Content="SUBMIT" Margin="26,439,26,0" FontFamily="Arial" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" Height="30" FontSize="13">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+    </Grid>
+</Page>

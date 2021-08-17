@@ -1,0 +1,19 @@
+ALTER PROC searchVeiculo(
+	@search VARCHAR(30)
+	)
+AS
+
+
+
+SET NOCOUNT ON;
+BEGIN TRY;
+	BEGIN TRANSACTION;
+		SELECT * FROM Oficina_DB.Veiculo WHERE matricula LIKE '%'+@search+'%'
+	COMMIT TRANSACTION;
+END TRY
+BEGIN CATCH
+	ROLLBACK TRANSACTION;
+	RAISERROR('Inventory Transaction Error', 16, 1);
+END CATCH;
+
+GO

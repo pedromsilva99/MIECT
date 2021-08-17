@@ -1,0 +1,44 @@
+﻿<Page x:Class="FDR.HelloCharity"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="HelloCharity">
+
+    <Grid Background="White">
+        <Label x:Name="LabelHelloCharity" HorizontalContentAlignment="Center" Content="HELLO " Background = "White" Margin="10,67,10,0" VerticalAlignment="Top" Height="45" FontWeight="Bold" FontSize="17"/>
+        <Button x:Name="ButtonSeeOrders" Background ="RoyalBlue" Foreground="White" Content="SEE ORDERS" Margin="26,248,26,0" FontFamily="Arial" VerticalAlignment="Top" Click="ButtonSeeOrders_Click" FontSize="13" FontWeight="Bold" Height="30">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="ButtonDonationsNearby" Background ="RoyalBlue" Foreground="White" Content="CHECK FOR DONATIONS NEARBY" Margin="25,204,26,0" FontFamily="Arial" VerticalAlignment="Top" Click="ButtonDonationsNearby_Click" FontSize="13" FontWeight="Bold" Height="30" >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="ButtonSignUp" Background= "RoyalBlue" Content="LOG OUT" Margin="10,458,197,0" FontFamily="Arial" VerticalAlignment="Top" Click="ButtonLogOut_Click" Height="30" Foreground="White" FontWeight="Bold" FontSize="13">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="ButtonPastOrders" Background ="RoyalBlue" Foreground="White" Content="PAST ORDERS" Margin="26,293,26,0" FontFamily="Arial" VerticalAlignment="Top" Click="ButtonPastOrders_Click" FontSize="13" FontWeight="Bold" Height="30">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+    </Grid>
+
+</Page>

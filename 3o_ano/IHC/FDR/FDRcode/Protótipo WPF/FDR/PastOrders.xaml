@@ -1,0 +1,26 @@
+﻿<Page x:Class="FDR.PastOrders"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="PastOrders">
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,21,0,0" VerticalAlignment="Top" Width="53" Click="ButtonBack_Click" Height="19">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="YOUR PAST ORDERS" HorizontalContentAlignment="Center" Margin="15,54,15,0" VerticalAlignment="Top" Height="37" FontWeight="Bold" FontSize="20"/>
+        <ListBox x:Name="lstBoxPastOrders" BorderThickness="2" FontWeight="Bold" BorderBrush="RoyalBlue" Foreground="RoyalBlue" Height="354" Margin="26,101,26,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

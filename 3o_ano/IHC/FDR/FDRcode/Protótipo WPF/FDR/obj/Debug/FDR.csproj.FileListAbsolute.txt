@@ -1,0 +1,770 @@
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\Home.baml
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro Silva\Desktop\IHC\MobileApp\FDR\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\Home.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FDR\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\Home.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro Silva\Desktop\ProjectIHC\FDR\FDR\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\bin\Debug\FDR.exe.config
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\bin\Debug\FDR.exe
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\bin\Debug\FDR.pdb
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\CurrentDonations.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\DonateFood.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\DonationsNearby.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q1.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q2.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q3.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q4.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\HelloCharity.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\MainWindow.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\LogIn.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SignUpCharity.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SeeOrders.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\Home.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SignUp.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\ThankYou.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\YourDonation.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\App.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\AcceptedDonations.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\CurrentDonations.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\DonateFood.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\DonationsNearby.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q1.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q2.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q3.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FAQ_q4.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\HelloCharity.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\HelloRestaurant.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\MainWindow.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\LogIn.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SignUpRestaurant.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SignUpCharity.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SeeOrders.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\Home.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\SignUp.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\ThankYou.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\YourDonation.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR.g.resources
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR.exe
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR.pdb
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\PastDonations.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\PastDonations.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\MoreInfo.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\YourOrder.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\ThankYou2.g.cs
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\MoreInfo.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\YourOrder.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\ThankYou2.baml
+C:\ect\ano3\ihc\pratica\projeto\FDR\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\MoreInfo.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\MoreInfo.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\PastDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\Home.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\YourOrder.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Prototipo_2\FDR\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\Protótipo WPF\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\PastOrders.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\ULTIMO\Protótipo WPF\FDR\obj\Debug\PastOrders.baml
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\PastOrders.g.cs
+C:\Users\Miguel Oliveira\Desktop\Protótipo WPF\FDR\obj\Debug\PastOrders.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\PastOrders.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\PastOrders.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\ect\ano3\ihc\projeto\Protótipo WPF\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\PastOrders.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\PastOrders.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro G\OneDrive\Documentos\IHC\FINALISSIMO\Protótipo WPF\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\PastOrders.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\PastOrders.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL\Protótipo WPF\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\PastOrders.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\PastOrders.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro Silva\Downloads\FINALISSIMA_FINAL_ENVIAR\Protótipo WPF\FDR\obj\Debug\FDR.pdb
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\bin\Debug\FDR.exe.config
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\bin\Debug\FDR.exe
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\bin\Debug\FDR.pdb
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR.csprojAssemblyReference.cache
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\CurrentDonations.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\DonateFood.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\DonationsNearby.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q1.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q2.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q3.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q4.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\HelloCharity.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\LogIn.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\PastDonations.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\PastOrders.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\ThankYou2.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SignUpCharity.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SeeOrders.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\Home.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SignUp.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\ThankYou.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\YourDonation.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\YourOrder.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\App.g.cs
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.cache
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR_MarkupCompile.lref
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\AcceptedDonations.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\CurrentDonations.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\DonateFood.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\DonationsNearby.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q1.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q2.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q3.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FAQ_q4.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\HelloCharity.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\HelloRestaurant.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\MainWindow.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\LogIn.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\PastDonations.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\PastOrders.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\ThankYou2.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyC.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\WeAreAlmostReadyR.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SignUpRestaurant.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SignUpCharity.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SeeOrders.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\Home.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\SignUp.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\ThankYou.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\YourDonation.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\YourOrder.baml
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR.g.resources
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR.Properties.Resources.resources
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR.csproj.GenerateResource.cache
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR.exe
+C:\Users\Pedro Silva\Desktop\FDRcode\Protótipo WPF\FDR\obj\Debug\FDR.pdb

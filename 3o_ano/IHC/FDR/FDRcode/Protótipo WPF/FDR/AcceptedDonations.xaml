@@ -1,0 +1,22 @@
+﻿<Page x:Class="FDR.AcceptedDonations"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="AcceptedDonations">
+
+    <Grid Background="White">
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,21,0,0" VerticalAlignment="Top" Width="56" Click="ButtonBack_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <ListBox x:Name="lstBoxPastDonations" FontWeight="Bold" BorderThickness="2" BorderBrush="RoyalBlue" Foreground="RoyalBlue" Height="354" Margin="26,101,26,0" VerticalAlignment="Top"/>
+        <Label Content="ACCEPTED DONATIONS" HorizontalContentAlignment="Center" Margin="26,54,26,0" VerticalAlignment="Top" Height="37" FontWeight="Bold" FontSize="20"/>
+    </Grid>
+</Page>

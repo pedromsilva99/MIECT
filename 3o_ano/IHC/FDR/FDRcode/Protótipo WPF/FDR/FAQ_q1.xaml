@@ -1,0 +1,23 @@
+﻿<Page x:Class="FDR.FAQ_q1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+       d:DesignHeight="500" d:DesignWidth="300"
+      Title="FAQ_q1">
+
+    <Grid Background="White">
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,21,0,0" VerticalAlignment="Top" Width="46" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="WHO ARE WE? " HorizontalContentAlignment="Center" Margin="56,55,51,0" VerticalAlignment="Top" Height="38" FontWeight="Bold" FontSize="20"/>
+        <Label HorizontalContentAlignment="Center" Content="We are a brand new App that &#xA;will help millions of lives &#xA;all over the world. &#xA;What does it cost to give away &#xA;the food we waste everyday? &#xA;What for us may simply be leftovers &#xD;&#xA;or most possibly garbage, for others, &#xA;can be the only meal they &#xA;get and have been waiting &#xA;for so long." Margin="31,117,31,0" VerticalAlignment="Top" Height="201" FontSize="14"/>
+
+    </Grid>
+</Page>

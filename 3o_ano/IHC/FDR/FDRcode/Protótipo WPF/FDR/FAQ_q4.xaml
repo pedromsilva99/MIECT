@@ -1,0 +1,23 @@
+﻿<Page x:Class="FDR.FAQ_q4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="FAQ_q4">
+
+    <Grid Background="White">
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,21,0,0" VerticalAlignment="Top" Width="46" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="  CAN'T GET RECOGNIZED AS  &#10;AN OFFICIAL ORGANIZATION?" HorizontalContentAlignment="Center" Margin="0,55,0,0" VerticalAlignment="Top" Height="62" FontWeight="Bold" FontSize="16"/>
+        <Label HorizontalContentAlignment="Center" Content="Unfortunately there are a lot of fake &#xD;&#xA;organizations,&#xA;We can only give access to the app&#xD;&#xA;as an organization if you can prove &#xD;&#xA;you're from a real organization." Margin="26,134,26,0" VerticalAlignment="Top" Height="94" FontSize="13"/>
+
+    </Grid>
+</Page>

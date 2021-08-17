@@ -1,0 +1,30 @@
+﻿<Page x:Class="FDR.SeeOrders"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="SeeOrders">
+
+    <Grid Background="White">
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,21,0,0" VerticalAlignment="Top" Width="56" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="YOUR DAILY ORDERS:" Background = "White" Margin="0,52,0,0" VerticalAlignment="Top" Height="37" FontWeight="Bold" Width="300" HorizontalAlignment="Center" HorizontalContentAlignment="Center" RenderTransformOrigin="0.501,0.772" FontSize="20"/>
+        <ListBox x:Name="lstBoxOrder" BorderThickness="2" FontWeight="Bold" BorderBrush="RoyalBlue" Foreground="RoyalBlue" Height="206" Margin="26,199,26,0" VerticalAlignment="Top"/>
+        <Button x:Name="ButtonReceived" Background ="RoyalBlue" Content="ORDER RECEIVED" Margin="26,439,26,0" FontFamily="Arial" VerticalAlignment="Top" Click="ButtonReceived_Click" Foreground="White" FontWeight="Bold" Height="30" FontSize="13">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="          PLEASE SELECT THE DONATIONS YOU HAVE &#xA;      ALREADY COLLECTED SO THAT THE RESTAURANT  &#xA;                 CAN REMOVE THEM FROM HIS LIST.&#xA;&#xA;      AFTER YOU DO THIS, YOUR ORDERS CONSIDERED &#xA;AS COLLECTED, WILL PASS TO THE PAST ORDERS MENU" Background = "White" Margin="0,89,0,0" VerticalAlignment="Top" Height="100" FontWeight="Bold" HorizontalContentAlignment="Center" RenderTransformOrigin="0.501,0.772" FontSize="10"/>
+    </Grid>
+</Page>

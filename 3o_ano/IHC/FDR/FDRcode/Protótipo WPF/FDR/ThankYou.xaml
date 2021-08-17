@@ -1,0 +1,25 @@
+﻿<Page x:Class="FDR.ThankYou"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="ThankYou">
+
+    <Grid Background="White">
+        <Label Content="THANK YOU!" HorizontalContentAlignment="Center" Margin="0,67,0,0" VerticalAlignment="Top" Height="51" FontWeight="Bold" FontSize="23"/>
+        <Label Content="             YOU WILL BE ABLE TO SEE THE &#xA;              STATUS OF YOUR DONATION.&#xA;&#xA;    IF ACCEPTED, IT WILL SWITCH FROM THE &#xA;       CURRENT DONATIONS MENU TO THE &#xA;            ACCEPTED DONATIONS MENU" HorizontalContentAlignment="Center" Margin="0,147,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Height="125" FontWeight="Bold" FontSize="13" Width="300"/>
+        <Button x:Name="ButtonNext" Background ="RoyalBlue" Content="HOME PAGE" Margin="26,439,26,0" FontFamily="Arial" VerticalAlignment="Top" Click="ButtonLogIn_Copy3_Click" Foreground="White" FontWeight="Bold" Height="30" FontSize="13">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="YOUR CODE:" Margin="26,379,192,0" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" Height="24" FontWeight="Bold" Width="82"/>
+        <TextBox x:Name="txtBox_code" VerticalContentAlignment="Center" IsReadOnly="True" BorderThickness="2" BorderBrush="RoyalBlue" HorizontalAlignment="Left" Height="24" Margin="113,379,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" FontWeight="Bold"/>
+        <Label Content="              MAKE SURE THE PERSON RECEIVING &#xD;&#xA;               THIS ORDER HAS THE SAME CODE!" HorizontalAlignment="Left" Margin="0,323,0,0" VerticalAlignment="Top" Width="300" FontSize="12"/>
+    </Grid>
+</Page>

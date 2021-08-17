@@ -1,0 +1,19 @@
+ALTER PROC searchServico(
+	@search VARCHAR(30)
+	)
+AS
+
+
+
+SET NOCOUNT ON;
+BEGIN TRY;
+	BEGIN TRANSACTION;
+		SELECT * FROM Oficina_DB.Servico WHERE veiculo LIKE '%'+@search+'%'
+	COMMIT TRANSACTION;
+END TRY
+BEGIN CATCH
+	ROLLBACK TRANSACTION;
+	RAISERROR('Inventory Transaction Error', 16, 1);
+END CATCH;
+
+GO

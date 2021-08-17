@@ -1,0 +1,34 @@
+﻿<Page x:Class="FDR.WeAreAlmostReadyC"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FDR"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="300"
+      Title="SignUp">
+
+    <Grid Background="White">
+        <Button Content="&lt;Back" HorizontalAlignment="Left" Margin="17,10,0,0" VerticalAlignment="Top" Width="52" Click="Button_Click_1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBox x:Name="TxtBoxCaridade_Email" BorderBrush="Blue" BorderThickness="2" HorizontalAlignment="Left" Height="30" FontSize="13" Margin="28,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Label HorizontalContentAlignment="Center" Content="EMAIL:" Foreground="White" Background = "RoyalBlue" HorizontalAlignment="Left" Margin="28,156,0,0" VerticalAlignment="Top" Height="30" FontSize="13" Width="244" FontWeight="Bold"/>
+        <Label Content="  SIGN UP   " HorizontalContentAlignment="Center" Margin="58,38,58,0" VerticalAlignment="Top" Height="41" FontWeight="Bold" FontSize="20"/>
+        <Label HorizontalContentAlignment="Center" Content="PASSWORD:" Foreground="White" Background = "RoyalBlue" HorizontalAlignment="Left" Margin="28,232,0,0" VerticalAlignment="Top" Height="30" FontSize="13" Width="244" FontWeight="Bold"/>
+        <PasswordBox x:Name="PswBoxCaridade" BorderBrush="Blue" BorderThickness="2" HorizontalAlignment="Left" Height="30" FontSize="13" Margin="28,260,0,0" VerticalAlignment="Top" Width="244"/>
+        <Button x:Name="ButtonNext" Background ="RoyalBlue" Content="FINISH" Margin="28,439,28,0" FontFamily="Arial" VerticalAlignment="Top" Click="Button_Click" Foreground="White" FontWeight="Bold" Height="30" FontSize="13">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label HorizontalContentAlignment="Center" Content="CONFIRM PASSWORD:" Foreground="White" Background = "RoyalBlue" HorizontalAlignment="Left" Margin="28,307,0,0" VerticalAlignment="Top" Height="30" FontSize="13" Width="244" FontWeight="Bold"/>
+        <PasswordBox x:Name="PswBoxConfirmCaridade" BorderBrush="Blue" BorderThickness="2" HorizontalAlignment="Left" Height="30" FontSize="13" Margin="28,335,0,0" VerticalAlignment="Top" Width="244"/>
+    </Grid>
+</Page>
