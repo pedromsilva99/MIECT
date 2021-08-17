@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<!--
+Template Name: Cooban
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+<title>Entretenimento</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/series-label.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Top Background Image Wrapper -->
+<div class="wrapper bgded overlay" style="background-image:url('imagens/entre.png');"> 
+  <!-- ################################################################################################ -->
+  <div class="row1">
+    <header id="header" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <div id="logo" class="fl_left">
+        <h1><a href="../index.html">Vantagens do desporto</a></h1>
+      </div>
+      <nav id="mainav" class="fl_right">
+        <ul class="clear">
+          <li><a href="../index.html">Página inicial</a></li>
+          <li class="active"><a class="drop" href="#">Tipos de vantagens</a>
+            <ul>
+              <li><a href="vantEcon.html">Vantagens Económicas e Sociais</a></li>
+              <li><a class="drop" href="#">Vantagens para a saúde</a>
+                <ul>
+                  <li><a href="vantFisicas.html">Vantagens Físicas</a></li>
+                  <li><a href="vantPsicologicas.html">Vantagens Psicológicas</a></li>
+                  <li><a href="vantDespEscolar.html">Vantagens do Desporto Escolar</a></li>
+                </ul>
+              </li>
+              <li class="active"><a href="Entretenimento.html">Entretenimento</a></li>
+            </ul>
+          </li>
+          <li><a href="mapa.html">Mapa</a></li>
+          <li><a href="about.html">Acerca deste projeto</a></li>
+        </ul>
+      </nav>
+      <!-- ################################################################################################ -->
+    </header>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div id="breadcrumb" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    
+ 	<h1 class="heading"> Entretenimento </h1>
+     	
+    <!-- ################################################################################################ -->
+  </div>
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Top Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content three_quarter first"> 
+      <!-- ################################################################################################ -->
+    <h1>União do desporto</h1>
+	<p class="tab">O desporto é algo que consegue reunir milhões de pessoas.
+As maiores organizações desportivas espalham constantemente mensagens de união, respeito e integração - mensagens importantes não só para os que praticam esse desporto,
+mas também para os que assistem.</p>
+	<p class="tab">Esta componente do entretenimento é também uma mais valia económica.
+As pessoas que se consideram ávidas fãns de algum desporto, mesmo que o não
+pratiquem, fazem esforços monetários para acompanhar ao máximo o desporto,
+seja este qualquer desporto.</p>
+	<p style="text-align:center;"><img src="imagens/union.jpg" style="width: 500px;"/>
+	<br>
+	<br>
+	<h1>Variedade desportiva</h1>
+	<p class="tab">Portugal está associado principalmente, quando falamos de desporto, com a
+imagem do futebol e isto é algo que, a princípio pode parecer uma desvantagem
+pela razão de limitar um país a uma imagem.
+No entanto, é algo que está
+enraízado na cultura relativamente recente do país. Apesar disso, a cultura é
+uma constante progressão e outros desportos estão a crescer continuamente.</p>
+	<p class="tab">Tem havido, nos últimos anos um crescimento acentuado no crescimento
+da popularidade de outros desportos e, consequentemente, um crescimento na
+prática destes mesmos em Portugal.</p>
+	<p class="tab">O andebol, o voleibol, o basquetebol e a natação são, nesta ordem, as 4 modalidades desportivas mais praticadas em Portugal.
+E têm demonstrado um continuo crescimento, tal como o total de federados no geral.</p>
+	<div id="grafico"></div>
+      <!-- ################################################################################################ -->
+    </div>
+    <div class="sidebar one_quarter"> 
+      <!-- ################################################################################################ -->
+      <h6>Barra de navegação</h6>
+      <nav class="sdb_holder">
+         <ul>
+          <li><a href="vantEcon.html">Vantagens Económicas e Sociais</a></li>
+	  <li><a href="vantFisicas.html">Vantagens para a saúde</a></li>
+            <ul>
+              <li><a href="vantFisicas.html">Vantagens Físicas</a></li>
+	      <li><a href="vantPsicologicas.html">Vantagens Psicológicas</a></li>
+              <li><a href="vantDespEscolar.html">Vantagens do Desporto Escolar</a>
+     
+              </li>
+            </ul>
+          <li><a href="Entretenimento.html">Entretenimento</a></li>
+        </ul>
+      </nav>
+      
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<script type="text/javascript">
+Highcharts.chart('grafico', {
+
+    title: {
+        text: 'Crescimento do número de federados por modalidade desportiva'
+    },
+
+    subtitle: {
+        text: 'Fonte: https://www.pordata.pt/DB/Portugal/Ambiente+de+Consulta/Tabela'
+    },
+
+    yAxis: {
+        title: {
+            text: 'Número de federados'
+        }
+    },
+
+    plotOptions: {
+        series: {
+            label: {
+                connectorAllowed: false
+            },
+            pointStart: 1996
+        }
+    },
+
+    series: [{
+        name: 'Futebol',
+        data: [95746, 97252, 106051, 110822, 113895, 115283, 120003, 128471, 133511, 131835, 133360, 136387, 141958, 144106, 148106, 151572, 153530, 153462, 155968, 161167]
+    }, {
+        name: 'Andebol',
+        data: [17386, 19501, 20306, 21731, 22032, 22152, 24537, 27294, 30994, 30760, 30524, 32257, 33902, 37562, 39708, 39877, 40373, 46405, 50114, 50244]
+    }, {
+        name: 'Voleibol',
+        data: [6199, 7278, 8028, 8140, 9813, 12286, 15746, 16408, 27003, 27740, 29135, 36244, 40898, 40090, 42386, 43240, 43061, 43023, 43076, 43120]
+    }, {
+        name: 'Natação',
+        data: [4317, 4981, 5404, 6138, 5630, 6108, 6350, 7138, 6880, 7284, 7938, 8276, 9259, 10127, 11380, 11277, 11232, 11651, 21695, 43083]
+    }],
+
+    responsive: {
+        rules: [{
+            condition: {
+                maxWidth: 500
+            },
+            chartOptions: {
+                legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                }
+            }
+        }]
+    }
+
+});
+</script>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="../layout/scripts/jquery.placeholder.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,137 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -4.379
+TNS   : -404.529
+
+Type  : Slow 1200mV 85C Model Setup 'debouncer:inst28|level'
+Slack : -4.100
+TNS   : -69.290
+
+Type  : Slow 1200mV 85C Model Setup 'FreqDivider:inst27|newClk'
+Slack : -4.082
+TNS   : -91.273
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'FreqDivider:inst27|newClk'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'debouncer:inst28|level'
+Slack : 0.411
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'debouncer:inst28|level'
+Slack : -0.650
+TNS   : -21.463
+
+Type  : Slow 1200mV 85C Model Removal 'debouncer:inst28|level'
+Slack : 0.820
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -213.740
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'debouncer:inst28|level'
+Slack : -1.285
+TNS   : -44.975
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FreqDivider:inst27|newClk'
+Slack : -1.285
+TNS   : -30.840
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -3.890
+TNS   : -354.180
+
+Type  : Slow 1200mV 0C Model Setup 'FreqDivider:inst27|newClk'
+Slack : -3.718
+TNS   : -82.755
+
+Type  : Slow 1200mV 0C Model Setup 'debouncer:inst28|level'
+Slack : -3.656
+TNS   : -58.145
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'FreqDivider:inst27|newClk'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'debouncer:inst28|level'
+Slack : 0.367
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'debouncer:inst28|level'
+Slack : -0.480
+TNS   : -15.587
+
+Type  : Slow 1200mV 0C Model Removal 'debouncer:inst28|level'
+Slack : 0.761
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -213.740
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'debouncer:inst28|level'
+Slack : -1.285
+TNS   : -44.975
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FreqDivider:inst27|newClk'
+Slack : -1.285
+TNS   : -30.840
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -1.891
+TNS   : -121.404
+
+Type  : Fast 1200mV 0C Model Setup 'FreqDivider:inst27|newClk'
+Slack : -1.478
+TNS   : -31.554
+
+Type  : Fast 1200mV 0C Model Setup 'debouncer:inst28|level'
+Slack : -1.424
+TNS   : -17.320
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'FreqDivider:inst27|newClk'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'debouncer:inst28|level'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'debouncer:inst28|level'
+Slack : 0.133
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'debouncer:inst28|level'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -177.130
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'debouncer:inst28|level'
+Slack : -1.000
+TNS   : -35.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FreqDivider:inst27|newClk'
+Slack : -1.000
+TNS   : -24.000
+
+------------------------------------------------------------

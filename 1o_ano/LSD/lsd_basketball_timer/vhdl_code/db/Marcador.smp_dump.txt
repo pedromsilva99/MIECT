@@ -1,0 +1,7 @@
+
+State Machine - |Marcador|Controlo:inst|PS
+Name PS.START PS.STOPPED PS.STARTED PS.RESET 
+PS.RESET 0 0 0 0 
+PS.STARTED 0 0 1 1 
+PS.STOPPED 0 1 0 1 
+PS.START 1 0 0 1 
