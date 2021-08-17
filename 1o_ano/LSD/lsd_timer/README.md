@@ -1,4 +1,4 @@
-# basketball_timer
+# timer
 
 Mini projeto desenvolvido com [Rui Oliveira](https://github.com/ruimigueloliveira) para a unidade curricular Laboratórios de Sistemas Digitais do 2º semestre do 1º ano do curso Mestrado Integrado em Engenharia de Computadores e Telemática.
 Neste mini projeto, pretende-se desenvolver um cronómetro de 1 hora onde seja possível pausar/recomeçar e dar reset à contagem.
