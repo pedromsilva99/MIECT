@@ -1,0 +1,4 @@
+
+Run the project: mvnw spring-boot:run
+
+URL: http://localhost:8080

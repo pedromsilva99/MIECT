@@ -1,0 +1,30 @@
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+*.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+
+
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+AirLift/doc/*
