@@ -1,6 +1,6 @@
 # virtualcoin_live_value
 
-Projeto desenvolvido com [Pedro Gonçalves](https://github.com/PedroG-8) para a unidade curricular Engenharia de Software do 1º semestre do 4º ano do curso Mestrado Integrado em Engenharia de Computadores e Telemática.
+Projeto desenvolvido com [Pedro Gonçalves](https://github.com/PedroG-8) para a unidade curricular Engenharia de Software do 2º semestre do 4º ano do curso Mestrado Integrado em Engenharia de Computadores e Telemática.
 Neste projeto, pretende-se desenvolver uma aplicação que obtenha o valor da criptomoeda Bitcoin em tempo real, e onde seja possível armazenar esse valor e comparar com os valores previamente armazenados.
 
 Para correr o projeto:
