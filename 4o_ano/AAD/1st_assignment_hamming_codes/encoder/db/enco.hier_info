@@ -1,0 +1,296 @@
+|hammingCodeBitSerialEncoder
+y => gateAnd:and_a.x1
+y => gateAnd:and_b.x1
+y => gateAnd:and_c.x1
+y => gateAnd:and_d.x1
+y => Mux2_1:multiplexer2_1.dataln0
+clk => binCounter_4bit:stateCounter.clk
+clk => flipFlopDPET:ff_x12.clk
+clk => flipFlopDPET:ff_x13.clk
+clk => flipFlopDPET:ff_x14.clk
+clk => flipFlopDPET:ff_x15.clk
+clk => flipFlopDPET:ff_out.clk
+rst => binCounter_4bit:stateCounter.nRst
+d_out <= flipFlopDPET:ff_out.Q
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter
+nRst => flipFlopDPET:ff0.nRst
+nRst => flipFlopDPET:ff1.nRst
+nRst => flipFlopDPET:ff2.nRst
+nRst => flipFlopDPET:ff3.nRst
+clk => flipFlopDPET:ff0.clk
+clk => flipFlopDPET:ff1.clk
+clk => flipFlopDPET:ff2.clk
+clk => flipFlopDPET:ff3.clk
+c[0] <= flipFlopDPET:ff0.Q
+c[1] <= flipFlopDPET:ff1.Q
+c[2] <= flipFlopDPET:ff2.Q
+c[3] <= flipFlopDPET:ff3.Q
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|gateAnd:ad1
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|gateAnd:ad2
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|gateXOR:xr1
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|gateXOR:xr2
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|gateXOR:xr3
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|flipFlopDPET:ff0
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|flipFlopDPET:ff1
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|flipFlopDPET:ff2
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|binCounter_4bit:stateCounter|flipFlopDPET:ff3
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|controlUnit:control
+sc[0] => a.IN0
+sc[0] => a.IN1
+sc[0] => b.IN1
+sc[0] => b.IN1
+sc[0] => c.IN1
+sc[0] => d.IN1
+sc[0] => d.IN1
+sc[0] => selPar.IN1
+sc[0] => comp_rst.IN1
+sc[0] => b.IN1
+sc[0] => c.IN1
+sc[0] => c.IN1
+sc[0] => d.IN1
+sc[1] => a.IN1
+sc[1] => a.IN0
+sc[1] => b.IN1
+sc[1] => c.IN0
+sc[1] => c.IN1
+sc[1] => sel4_1.IN1
+sc[1] => comp_rst.IN1
+sc[1] => a.IN1
+sc[1] => b.IN0
+sc[1] => b.IN1
+sc[2] => b.IN0
+sc[2] => sel2_1.IN0
+sc[2] => comp_rst.IN0
+sc[2] => a.IN1
+sc[2] => a.IN0
+sc[2] => c.IN1
+sc[3] => a.IN1
+sc[3] => sel2_1.IN1
+sc[3] => comp_rst.IN1
+sc[3] => a.IN1
+sc[3] => b.IN1
+sc[3] => b.IN1
+comp_rst <= comp_rst.DB_MAX_OUTPUT_PORT_TYPE
+a <= a.DB_MAX_OUTPUT_PORT_TYPE
+b <= b.DB_MAX_OUTPUT_PORT_TYPE
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+sel2_1 <= sel2_1.DB_MAX_OUTPUT_PORT_TYPE
+sel4_1 <= sel4_1.DB_MAX_OUTPUT_PORT_TYPE
+selPar <= selPar.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateAnd:and_a
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateAnd:and_b
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateAnd:and_c
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateAnd:and_d
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateXOR:xor_a
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateXOR:xor_b
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateXOR:xor_c
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|gateXOR:xor_d
+x0 => y.IN0
+x1 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|flipFlopDPET:ff_x12
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|flipFlopDPET:ff_x13
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|flipFlopDPET:ff_x14
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|flipFlopDPET:ff_x15
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|Mux2_1:multiplexer2_1
+sel => out1.IN0
+sel => out1.IN0
+dataln0 => out1.IN1
+dataln1 => out1.IN1
+out1 <= out1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|Mux4_1:multiplexer4_1
+sel => out1.IN0
+sel => out1.IN0
+sel => out1.IN0
+sel => out1.IN0
+selPar => out1.IN1
+selPar => out1.IN1
+selPar => out1.IN1
+selPar => out1.IN1
+dataln0 => out1.IN1
+dataln1 => out1.IN1
+dataln2 => out1.IN1
+dataln3 => out1.IN1
+out1 <= out1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|hammingCodeBitSerialEncoder|flipFlopDPET:ff_out
+clk => nQ~reg0.CLK
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+D => nQ~reg0.DATAIN
+nSet => Q.IN0
+nRst => Q.IN1
+nRst => nQ~reg0.PRESET
+nRst => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+nQ <= nQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

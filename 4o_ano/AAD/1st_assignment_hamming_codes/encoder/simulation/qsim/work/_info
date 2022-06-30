@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Pedro Silva/Desktop/AAD/AAD-git/AAD_HCED/encoder/simulation/qsim
+Ehammingcodebitserialencoder
+Z1 w1639001840
+Z2 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 76OUjOFMM1Jzd<9936DA;3
+Z3 DPx10 cycloneive 21 cycloneive_components 0 22 dANj__M<MaN@;H9Tkm=iP1
+Z4 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z5 DPx6 altera 11 dffeas_pack 0 22 H5F:RRfLz82T3`4>@b7mS3
+Z6 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z9 DPx6 altera 28 altera_primitives_components 0 22 VSD=32;3391kSOd?PDZYj3
+!i122 2
+R0
+Z10 8enco.vho
+Z11 Fenco.vho
+l0
+L37 1
+VGiZ4YdzXR6zKA?[XDmjN22
+!s100 Naha@TI_NL:J^BngB?DAI3
+Z12 OV;C;2020.1;71
+32
+Z13 !s110 1639001841
+!i10b 1
+Z14 !s108 1639001841.000000
+Z15 !s90 -work|work|enco.vho|
+Z16 !s107 enco.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 27 hammingcodebitserialencoder 0 22 GiZ4YdzXR6zKA?[XDmjN22
+!i122 2
+l98
+L46 572
+V@WH:7:nDITRVKNmn2AKnD3
+!s100 _bVg`>@_h0Dk@3e3EI4P80
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Ehammingcodebitserialencoder_vhd_vec_tst
+Z19 w1639001839
+R7
+R8
+!i122 3
+R0
+Z20 8Waveform.vwf.vht
+Z21 FWaveform.vwf.vht
+l0
+L32 1
+V=1B]R4168PlNjO@^AQf>W1
+!s100 :38ABAm=4S5[ReGGAA8e]2
+R12
+32
+R13
+!i10b 1
+R14
+Z22 !s90 -work|work|Waveform.vwf.vht|
+Z23 !s107 Waveform.vwf.vht|
+!i113 1
+R17
+R18
+Ahammingcodebitserialencoder_arch
+R7
+R8
+Z24 DEx4 work 39 hammingcodebitserialencoder_vhd_vec_tst 0 22 =1B]R4168PlNjO@^AQf>W1
+!i122 3
+l49
+Z25 L34 59
+Z26 VhVUWBj[KTaYLV=3=ENKHN1
+Z27 !s100 <1gLKJC3>RUdcC4d35HPm2
+R12
+32
+R13
+!i10b 1
+R14
+R22
+R23
+!i113 1
+R17
+R18
