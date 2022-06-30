@@ -1,0 +1,34 @@
+
+docker images
+docker ps
+docker ps -a
+
+docker stop [container_id]
+docker rm [container_id]
+docker image rm [image_id]
+
+docker build -t [img_name] .
+docker run --name [container_name] -d -p 8002:8080 [img_name]
+
+
+// Correr a app DOCKER
+docker build -t registry.deti:5000/pedrog/rental:1747 -f deploy_rental/Dockerfile.dev .
+docker run --name rentals_container -d -p 8002:8002 registry.deti:5000/pedrog/rental:1325
+docker logs rentals_container
+
+// Correr a app K8S
+
+docker pull mongo:4.4
+docker image tag mongo:4.4 registry.deti:5000/egs9/mongo-rental:17961557
+
+docker build -t registry.deti:5000/egs9/rental:17961557 -f deploy_rental/Dockerfile.dev .
+
+
+docker push registry.deti:5000/egs9/rental:17961557
+docker push registry.deti:5000/egs9/mongo-rental:17961557
+
+
+kubectl apply -f deploy_rental/deployment.yaml
+kubectl apply -f deploy_rental/mongo.yaml
+kubectl apply -f deploy_rental/storage.yaml
+kubectl get pods -n egs9

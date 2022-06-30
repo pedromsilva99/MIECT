@@ -1,0 +1,16 @@
+Jan 19 00:20:05.812 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Jan 19 00:20:05.812 HYPERVISOR: Started on IP = localhost, TCP port = 55647.
+Jan 19 00:20:05.823 HYPERVISOR: exec_cmd: hypervisor version 
+Jan 19 00:20:05.823 HYPERVISOR: exec_cmd: hypervisor working_dir /home/pedro-g/code/Projeto-ARA-bgp-loopbacks/Projeto-ARA-bgp/Projeto-ARA/project/project-files/dynamips 
+Jan 19 00:20:05.823 GENERAL: working_dir=/home/pedro-g/code/Projeto-ARA-bgp-loopbacks/Projeto-ARA-bgp/Projeto-ARA/project/project-files/dynamips
+Jan 19 00:20:05.823 HYPERVISOR: exec_cmd: ethsw create Switch6 
+Jan 19 00:20:13.807 HYPERVISOR: exec_cmd: nio create_udp udp-a5d50a73-3910-4637-9727-c043101ee415 10101 127.0.0.1 10100 
+Jan 19 00:20:13.807 HYPERVISOR: exec_cmd: ethsw add_nio Switch6 udp-a5d50a73-3910-4637-9727-c043101ee415 
+Jan 19 00:20:13.828 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-a5d50a73-3910-4637-9727-c043101ee415 1 
+Jan 19 00:20:19.804 HYPERVISOR: exec_cmd: nio create_udp udp-a772e938-21ea-40cb-89d7-f2b1d3f505fe 10128 127.0.0.1 10129 
+Jan 19 00:20:19.804 HYPERVISOR: exec_cmd: ethsw add_nio Switch6 udp-a772e938-21ea-40cb-89d7-f2b1d3f505fe 
+Jan 19 00:20:19.823 HYPERVISOR: exec_cmd: ethsw set_access_port Switch6 udp-a772e938-21ea-40cb-89d7-f2b1d3f505fe 1 
+Jan 19 01:30:51.159 HYPERVISOR: exec_cmd: ethsw delete Switch6 
+Jan 19 01:30:51.189 HYPERVISOR: exec_cmd: hypervisor stop 
+Jan 19 01:30:51.612 HYPERVISOR: Stopped.
+Jan 19 01:30:51.612 GENERAL: reset done.

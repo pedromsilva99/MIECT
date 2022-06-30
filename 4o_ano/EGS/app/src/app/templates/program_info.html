@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="program-container">
+    <a href="{% url 'rent' %}?id={{  movie.id }}">
+        <button style="border: 2px solid white;
+        background-color: orange;
+        color: white;
+        font-size: 20px;" type="button" class="watched btn btn-lg btn-outline-success"><b>RENT</b></button>
+    </a>
+    <div class="row">
+        <div class="col-sm-8" about="{{ movie.full_id }}" typeof="pr:{{ movie.type }}">
+            <p class="movie-title" property="pr:name"><b>{{ movie.title }}</b> ({{ movie.release_year }}) </p>
+            <p class="movie-info" property="pr:duration"> Added on {{ movie.date_added }} - {{ movie.duration }}</p>
+            <br>
+            
+            <p class="movie-info" rel="pr:starring" ><b>Category: </b>
+                <b> - </b>
+                {% for category in categories %}
+                    {% if category == categories_last_element %}
+                        <a class="actor-list" property="pr:url" href="{% url 'category' %}?id={{ category }}" typeof="pr:category">{{category}}</a>
+                    {% else %}
+                        <a class="actor-list" property="pr:url" href="{% url 'category' %}?id={{ category }}" typeof="pr:category">{{category}}, </a>
+                    {% endif %}
+                {% endfor %}
+            </p>
+            
+            <p class="movie-info" rel="pr:starring" ><b>Cast: </b>
+                <b> - </b>
+                {% for actor in cast %}
+                    {% if actor == cast_last_element %}
+                        <a class="actor-list" property="pr:url" href="{% url 'actor' %}?id={{ actor }}" typeof="pr:actor">{{actor}}</a>
+                    {% else %}
+                        <a class="actor-list" property="pr:url" href="{% url 'actor' %}?id={{ actor }}" typeof="pr:actor">{{actor}}, </a>
+                    {% endif %}
+                {% endfor %}
+            </p>
+            
+            <p class="movie-info" rel="pr:starring" ><b>Directed by: </b>
+                <b> - </b>
+                {% for director in directors %}
+                    {% if director == directors_last_element %}
+                        <a class="actor-list" property="pr:url" href="{% url 'director' %}?id={{ director }}" typeof="pr:director">{{director}}</a>
+                    {% else %}
+                        <a class="actor-list" property="pr:url" href="{% url 'director' %}?id={{ director }}" typeof="pr:director">{{director}}, </a>
+                    {% endif %}
+                {% endfor %}
+            </p>
+
+            <p class="movie-info" rel="pr:starring" ><b>Countries: </b>
+                <b> - </b>
+                {% for country in countries %}
+                    {% if country == countries_last_element %}
+                        <a class="actor-list" property="pr:url" href="{% url 'country' %}?id={{ country }}" typeof="pr:country">{{country}}</a>
+                    {% else %}
+                        <a class="actor-list" property="pr:url" href="{% url 'country' %}?id={{ country }}" typeof="pr:country">{{country}}, </a>
+                    {% endif %}
+                {% endfor %}
+            </p>
+
+            <p class="movie-info" rel="pr:categories"><b>Type: </b>
+                <b> - </b>
+                <span property="pr:name">{{ movie.type }}</span>
+            </p>
+            
+            <p class="movie-info" property="pr:rating"><b>Rating: </b>{{ movie.rating }}</p>
+            
+            <p class="movie-info" property="pr:description"><b>Description: </b>{{ movie.description }}</p>
+            
+        </div>
+        <div class="col-sm-4 align-items-center d-flex justify-content-center">
+            {% if movie.title == 'Friends' %}
+                <img src="../static/imgs/friends.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Gotham' %}
+                <img src="../static/imgs/gotham.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Ken Burns: The Civil War' %}
+                <img src="../static/imgs/civil_war.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Kingdom' %}
+                <img src="../static/imgs/kingdom.jpg" class="program-info-image"/>
+            {% elif movie.title == 'You' %}
+                <img src="../static/imgs/you.jpg" class="program-info-image"/>
+            {% elif movie.title == 'The Blue Planet: A Natural History of the Oceans' %}
+                <img src="../static/imgs/blue_planet.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Avengers: Infinity War' %}
+                <img src="../static/imgs/avengers.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Godzilla' %}
+                <img src="../static/imgs/godzilla.png" class="program-info-image"/>
+            {% elif movie.title == 'The Matrix' %}
+                <img src="../static/imgs/matrix.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Sherlock Holmes' %}
+                <img src="../static/imgs/sherlock.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Pulp Fiction' %}
+                <img src="../static/imgs/pulp_fiction.jpg" class="program-info-image"/>
+            {% elif movie.title == 'Inception' %}
+                <img src="../static/imgs/inception.jpg" class="program-info-image"/>
+            {% endif %}
+        </div>
+    </div>
+</div>
+    
+{% endblock %}

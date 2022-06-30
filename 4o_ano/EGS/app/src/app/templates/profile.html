@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block content %}
+<form action="/rent_confirm/?id={{movie_statistics.id}}" method="post">
+    {% csrf_token %}
+    {% if username != "" %}
+        <div class="score-container">
+            <div class="row">
+                <div class="col-md-5"></div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>
+        <div class="program-container">
+        
+        <p class="list-name">{{username}} Current rentals:</p>
+        <div class="row">
+            <div class="col-sm-8" about="{{ movie_statistics.full_id }}" typeof="pr:{{ movie.type }}">
+                
+                {% for rental in user_rentals%}
+                <div class="row">
+                    <div class="col-md-9">
+                        <li>
+                            <div class="col-md-20">
+                                <a style="font-size: xx-large;"class="movie-titles" href="{% url 'movie' %}?id={{rental.prod_id}}"><b>{{rental.title}}</b></a>
+                                <br>
+                                <label  class="movie-info"> <b>Price:</b> {{rental.price}}$ </label>
+                                <br>
+                                <label style="text-transform:none" class="movie-info"> <b>Rental Time:</b> {{rental.rental_time}} days</label>
+                                <p style="text-transform:none" class="movie-info"> <b>End Rental:</b> {{rental.end_rental}}</p>
+                            </div>
+                            
+                        </li>
+                        
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+    {% else %}
+        <label class="movie-info">You need to be logged in to rent a movie!</label>
+    {% endif %}
+
+    </div>
+</form>
+
+{% endblock %}
+                        

@@ -1,0 +1,12 @@
+version: "3.3"
+
+services:
+
+    mongo:
+        image: mongo
+        volumes:
+        - "/var/lib/mongodb-rentals:/data/db"
+        ports:
+        - "27018:27017"
+        container_name: mongodb
+        restart: always

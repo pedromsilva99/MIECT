@@ -1,0 +1,13 @@
+Jan 16 23:55:58.893 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Jan 16 23:55:58.893 HYPERVISOR: Started on IP = localhost, TCP port = 50825.
+Jan 16 23:55:58.903 HYPERVISOR: exec_cmd: hypervisor version 
+Jan 16 23:55:58.904 HYPERVISOR: exec_cmd: hypervisor working_dir /home/pedro/Desktop/Projeto-ARA-bgp-total/Projeto-ARA-bgp/Projeto-ARA/project/project-files/dynamips 
+Jan 16 23:55:58.904 GENERAL: working_dir=/home/pedro/Desktop/Projeto-ARA-bgp-total/Projeto-ARA-bgp/Projeto-ARA/project/project-files/dynamips
+Jan 16 23:55:58.904 HYPERVISOR: exec_cmd: ethsw create Switch4 
+Jan 16 23:56:04.851 HYPERVISOR: exec_cmd: nio create_udp udp-5ce3e637-d955-44d2-bd34-c3060b548cb2 10081 127.0.0.1 10080 
+Jan 16 23:56:04.851 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-5ce3e637-d955-44d2-bd34-c3060b548cb2 
+Jan 16 23:56:04.854 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-5ce3e637-d955-44d2-bd34-c3060b548cb2 1 
+Jan 17 01:29:13.493 HYPERVISOR: exec_cmd: ethsw delete Switch4 
+Jan 17 01:29:13.501 HYPERVISOR: exec_cmd: hypervisor stop 
+Jan 17 01:29:13.751 HYPERVISOR: Stopped.
+Jan 17 01:29:13.751 GENERAL: reset done.

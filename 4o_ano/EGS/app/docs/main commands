@@ -1,0 +1,34 @@
+
+# APP LOCAL
+docker build -t app_image -f deploy_app/Dockerfile.dev .
+docker run --name app_container -d -p 8000:8000 app_image
+docker logs app_container
+
+# REMOVE 
+docker kill $(docker ps -q)
+docker rm -f $(docker ps -a -q)
+yes | docker image prune -a
+
+# OPENVPN
+cd /Desktop/deti-srv-OpenVPN/
+sudo openvpn deti-srv.ovpn
+
+# KUBERNETES
+
+1. Construir a imagem
+docker build -t registry.deti:5000/egs9/app:19060043 -f deploy_app/Dockerfile.dev .
+
+2. Enviar para o registry
+docker push registry.deti:5000/egs9/app:19060043
+
+2. Enviar para o cluster
+kubectl apply -f deploy_app/deployment.yaml
+
+3. Ver estado
+kubectl get pods -n egs9
+
+# 4. Mudar o porto
+# kubectl -n jonhcena port-forward app-69988cb677-fdqwm 1232:8000
+
+# 5. Aceder
+# http://localhost:1232/
